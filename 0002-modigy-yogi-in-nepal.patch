@@ -1,0 +1,25 @@
+From 8d1ef8533bb09c290d03dc09b5d28bd928265257 Mon Sep 17 00:00:00 2001
+From: amrit lama <dumjan2040@gmail.com>
+Date: Tue, 14 Jun 2016 14:34:26 -0400
+Subject: [PATCH 2/2] modigy yogi in nepal
+
+---
+ yogi.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/yogi.html b/yogi.html
+index ac5bbd1..f477514 100644
+--- a/yogi.html
++++ b/yogi.html
+@@ -8,7 +8,7 @@
+     <meta charset="utf-8" /> 
+ </head> 
+ <body> 
+-   <h1>A New Feature</h1> 
++   <h1>A New Feature1</h1> 
+     <p>Check out Numbers!..</p> 
+ <ul>
+    <li style="color: red">ten</li>
+-- 
+2.8.2.windows.1
+
