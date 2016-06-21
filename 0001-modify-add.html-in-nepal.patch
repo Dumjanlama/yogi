@@ -1,2 +1,37 @@
-0001-modify-add.html-in-nepal.patch
+From 12d80fcab553c57e5c285eb45773ea942bf49c6e Mon Sep 17 00:00:00 2001
+From: amrit lama <dumjan2040@gmail.com>
+Date: Tue, 14 Jun 2016 14:33:28 -0400
+Subject: [PATCH 1/2] modify add.html in nepal
+
+---
+ add.html | 10 +++-------
+ 1 file changed, 3 insertions(+), 7 deletions(-)
+
+diff --git a/add.html b/add.html
+index 8d847c9..66f195f 100644
+--- a/add.html
++++ b/add.html
+@@ -1,17 +1,13 @@
  
+ <!DOCTYPE html> 
+ <html lang="en">
+- <head> 
+-<<<<<<< HEAD
+-    <title>A New Feature1234</title> 
+-=======
++ 
++    <title>A New Feature12345</title> 
+ 
+ 
+-    <title>A New Feature123</title> 
+-
+     
+ 
+->>>>>>> 82a4aa28fd63840450f247c8b75592e95a556874
++
+     <meta charset="utf-8" /> 
+ </head> 
+ <body> 
+-- 
+2.8.2.windows.1
+
